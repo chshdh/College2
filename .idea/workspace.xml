@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Homework" targetName="2" />
+      <config projectName="Homework" targetName="Homework" />
+      <config projectName="Homework" targetName="Secert" />
+      <config projectName="Homework" targetName="Choos" />
+      <config projectName="Homework" targetName="CMakeLists" />
+      <config projectName="Homework" targetName="main" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4608349d-506a-49c4-b5ea-4584af887a89" name="默认变更列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1yd5HA8TPrLu0anF4cZiBQOlRXh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="ToolWindowCMake.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Shelf.Project.Settings" />
+  </component>
+  <component name="RunManager" selected="CMake 应用程序.2">
+    <configuration name="2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Homework" TARGET_NAME="2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Homework" RUN_TARGET_NAME="2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CMakeLists" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Homework" TARGET_NAME="CMakeLists" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Homework" RUN_TARGET_NAME="CMakeLists">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Choos" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Homework" TARGET_NAME="Choos" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Homework" RUN_TARGET_NAME="Choos">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Homework" TARGET_NAME="Homework" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Homework" RUN_TARGET_NAME="Homework">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Secert" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Homework" TARGET_NAME="Secert" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Homework" RUN_TARGET_NAME="Secert">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Homework" TARGET_NAME="main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Homework" RUN_TARGET_NAME="main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake 应用程序.2" />
+      <item itemvalue="CMake 应用程序.Choos" />
+      <item itemvalue="CMake 应用程序.CMakeLists" />
+      <item itemvalue="CMake 应用程序.Homework" />
+      <item itemvalue="CMake 应用程序.main" />
+      <item itemvalue="CMake 应用程序.Secert" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="4608349d-506a-49c4-b5ea-4584af887a89" name="默认变更列表" comment="" />
+      <created>1632568533473</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632568533473</updated>
+      <workItem from="1632568536641" duration="4499000" />
+      <workItem from="1632573724818" duration="26000" />
+      <workItem from="1632653347716" duration="1344000" />
+      <workItem from="1632718876483" duration="72000" />
+      <workItem from="1632718956555" duration="14000" />
+      <workItem from="1632811174001" duration="107000" />
+      <workItem from="1632811307151" duration="4206000" />
+      <workItem from="1633091733935" duration="42000" />
+      <workItem from="1633091784229" duration="1981000" />
+      <workItem from="1633093793662" duration="7000" />
+      <workItem from="1633093808408" duration="2453000" />
+      <workItem from="1633097540631" duration="7000" />
+      <workItem from="1633097569120" duration="794000" />
+      <workItem from="1633138274868" duration="8000" />
+      <workItem from="1633138398021" duration="1822000" />
+      <workItem from="1633140245177" duration="4000" />
+      <workItem from="1633140257100" duration="1658000" />
+      <workItem from="1633249292993" duration="24000" />
+      <workItem from="1633249325092" duration="1056000" />
+      <workItem from="1633251400916" duration="5000" />
+      <workItem from="1633252978577" duration="2769000" />
+      <workItem from="1633417604157" duration="21000" />
+      <workItem from="1633417764633" duration="3829000" />
+      <workItem from="1633833699273" duration="51000" />
+      <workItem from="1633833761413" duration="606000" />
+      <workItem from="1634024550469" duration="4000" />
+      <workItem from="1634024563734" duration="8130000" />
+      <workItem from="1634045944247" duration="13000" />
+      <workItem from="1634045965138" duration="1117000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
